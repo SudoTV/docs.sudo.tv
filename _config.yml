@@ -1,10 +1,10 @@
-title: snippet.mengw.io
+title: docs.sudo.tv
 email: wm@mengw.io
-description: Amazing Snippets
-url: https://snippet.mengw.io
+description: SudoTV Docs
+url: https://docs.sudo.tv
 github_username: WMXPY
 theme: minima
-repository: WMXPY/snippet.mengw.io
+repository: SudoTV/docs.sudo.tv
 markdown: kramdown
 kramdown:
   input: GFM
