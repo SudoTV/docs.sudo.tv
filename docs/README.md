@@ -1,3 +1,3 @@
-# Doc.SudoTV.com
+# docs.sudo.tv
 
-Doc.SudoTV.com
+docs.sudo.tv
