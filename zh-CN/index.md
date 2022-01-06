@@ -1,11 +1,11 @@
 ---
-title: 准备中
+title: SudoTV 文档
 layout: default
 localization: zh-CN
 ---
 
 {% include banner/not-ready.html %}
 
-# 准备中
+# SudoTV 文档
 
-嘿嘿
+暂时没有内容。
