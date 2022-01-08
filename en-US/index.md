@@ -4,8 +4,6 @@ layout: default
 localization: en-US
 ---
 
-{% include banner/not-ready.html %}
-
 # SudoTV Documents
 
 ## SudoTV Published
