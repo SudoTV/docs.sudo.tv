@@ -1,6 +1,6 @@
 ---
 title: SudoTV Documents
-layout: default
+layout: base
 localization: en-US
 ---
 

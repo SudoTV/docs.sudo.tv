@@ -1,6 +1,6 @@
 ---
 title: 所有包
-layout: default
+layout: base
 localization: zh-CN
 ---
 

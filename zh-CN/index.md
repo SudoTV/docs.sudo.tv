@@ -1,6 +1,6 @@
 ---
 title: SudoTV 文档
-layout: default
+layout: base
 localization: zh-CN
 ---
 
