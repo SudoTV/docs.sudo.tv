@@ -6,6 +6,6 @@ localization: zh-CN
 
 {% include banner/not-ready.html %}
 
-# 所有包
+# {{ page.title }}
 
 当前没有 SudoTV 发布的包。

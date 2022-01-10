@@ -4,7 +4,7 @@ layout: base
 localization: en-US
 ---
 
-# SudoTV Documents
+# {{ page.title }}
 
 ## SudoTV Published
 

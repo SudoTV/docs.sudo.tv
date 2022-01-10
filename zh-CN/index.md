@@ -4,7 +4,7 @@ layout: base
 localization: zh-CN
 ---
 
-# SudoTV 文档
+# {{ page.title }}
 
 ## 来自 SudoTV
 
