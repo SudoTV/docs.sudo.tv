@@ -29,3 +29,13 @@ localization: en-US
     title="BWNL Packages Index"
     description="Browse BWNL published packages and documents index"
 %}
+
+## Learn More
+
+{% include navigation/absolute-link.html
+    external=true
+    with-origin=true
+    href="https://sudo.tv/reprint/site"
+    title="How to Reprint Sites Content and Source Code"
+    description="View your right and limitations to reprint SudoTV Sites Content and Source Code"
+%}
