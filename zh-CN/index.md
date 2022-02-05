@@ -9,7 +9,7 @@ localization: zh-CN
 ## 来自 SudoTV
 
 {% include navigation/core-link.html
-    href="所有包"
+    href="packages"
     title="SudoTV 发布的包"
     description="浏览由 SudoTV 发布的包及其文档"
 %}
